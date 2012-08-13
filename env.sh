@@ -1,0 +1,3 @@
+export API_SERVER=http://127.0.0.1:3000
+export APP_SERVER=http://127.0.0.1:9292
+export DEVELOPER_KEY=26233b7b68290c7c7d4eec03643d0cf3e9b88ba8
